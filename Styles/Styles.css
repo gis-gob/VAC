@@ -1,0 +1,50 @@
+html{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    padding: 0;
+    margin-top: 20px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 12px;
+}
+#minsa-img{
+    display: block;
+    min-width: 300px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+#p-h1{
+    display: block;
+    color:#889dbc;
+    min-width: 50%;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+#p-title{
+    font-weight: bold;
+}
+#qr-code{
+    display: block;
+    min-width: 100px;
+    max-width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#caption{
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#table-border{
+    border: 10px solid #cad3d2;
+    padding:15px;
+}
